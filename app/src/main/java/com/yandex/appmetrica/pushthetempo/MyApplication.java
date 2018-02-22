@@ -11,7 +11,7 @@ public class MyApplication extends Application {
     public void onCreate() {
         super.onCreate();
 
-        YandexMetrica.activate(getApplicationContext(), "68f96d35-447d-47f1-b6ba-416dcf934997");
+        YandexMetrica.activate(getApplicationContext(), "d0d984ef-0d49-46f6-9265-67dfd4794536");
         YandexMetrica.enableActivityAutoTracking(this);
 
         YandexMetricaPush.init(getApplicationContext());
