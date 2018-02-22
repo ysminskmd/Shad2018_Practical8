@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "47206264921",
+    "firebase_url": "https://push-the-tempo.firebaseio.com",
+    "project_id": "push-the-tempo",
+    "storage_bucket": "push-the-tempo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:47206264921:android:ffd0cd0156911ac9",
+        "android_client_info": {
+          "package_name": "com.yandex.appmetrica.pushthetempo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "47206264921-rg6p54f7bg7sdjd54i83eraqm9pmo8kk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3cVBNKpzFjmPr4wx4aDs1SADsm0p-bog"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
